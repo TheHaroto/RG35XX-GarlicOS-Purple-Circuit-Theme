@@ -1,5 +1,5 @@
 # RG35XX-GarlicOS-Purple-Circuit-Theme
-A purple circuit board styled theme for the RG35XX on GarlicOS
+A purple circuit board styled theme for the RG35XX on GarlicOS:
 
 
 ![Purple Circuit Theme](https://user-images.githubusercontent.com/131164472/234551489-472c9f0f-c4c0-46d0-b744-e20087301970.gif)
