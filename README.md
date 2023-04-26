@@ -2,7 +2,7 @@
 A purple circuit board styled theme for the RG35XX on GarlicOS:
 
 
-![Purple Circuit Theme](https://user-images.githubusercontent.com/131164472/234551489-472c9f0f-c4c0-46d0-b744-e20087301970.gif)
+![Purple Circuit Theme](https://user-images.githubusercontent.com/131164472/234567894-1ba43970-fff7-46fc-93d0-adc9d307e964.gif)
 
 
 Note: Currently only the English file is compatible with this theme, the other languages will be added shortly.
